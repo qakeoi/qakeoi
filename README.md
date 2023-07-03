@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/qakeoi" target="blank"><img src="https://img.shields.io/twitter/follow/qakeoi?logo=twitter&style=for-the-badge" alt="qakeoi" /></a> </p>
 
-- 🔭 I’m currently working on **Solo**
+- 🔭 I’m currently working on **Alone**
 
 - 🌱 I’m currently learning **All**
 
