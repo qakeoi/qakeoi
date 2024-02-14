@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Alone<br><br>🌱 I’m currently learning All<br><br>👨‍💻 All of my projects are available at https://qakeoi.blogspot.com/p/portofolio.html<br><br>📝 I regularly write articles on https://qakeoi.blogspot.com/<br><br>📫 How to reach me cs.qakeoi@gmail.com<br><br>💬 Study https://qakeoi.blogspot.com<br><br>⚡ Fun fact There is no happiness without struggle
+🔭 I’m currently working on Alone<br><br>🌱 I’m currently learning All<br><br>👨‍💻 All of my projects are available at https://portofolio.qakeoi.my.id<br><br>📝 I regularly write articles on https://www.qakeoi.my.id/<br><br>📫 How to reach me cs.qakeoi@gmail.com<br><br>💬 Study https://qakeoi.blogspot.com<br><br>⚡ Fun fact There is no happiness without struggle
 
 
 ## 🌐 Socials:
@@ -30,5 +30,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qakeoi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/qakeoi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/qakeoi) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
