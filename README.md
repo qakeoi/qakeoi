@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=qakeoi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHVGJTdiTy2ZvJ8moO7m-Mj7wrPnd_ErDi3fZIc8IujsrbU3lcrJ-kryVIZyXEcggIiKXR7MTz137ZmCbpFi1n0wsi_u_imy_1snu9Air5MInu_iC_55fEqHNuLRI9Q53McJocZ_cEfvkUCIJWZZ8xBezKj85XKDckE9PMCCIDJw7_moQvRaW0WtaHGPHN/s1600/Screenshot%202024-02-14%20100513.png/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=qakeoi&icon=0&color=0)](https://visitcount.itsvg.in)
