@@ -1,35 +1,34 @@
-<h1 align="center">Hi 👋, I'm Qakeoi</h1>
-<h3 align="center">I'm just an ordinary person who dived into the world of code</h3>
+# 💫 About Me:
+🔭 I’m currently working on Alone<br><br>🌱 I’m currently learning All<br><br>👨‍💻 All of my projects are available at https://qakeoi.blogspot.com/p/portofolio.html<br><br>📝 I regularly write articles on https://qakeoi.blogspot.com/<br><br>📫 How to reach me cs.qakeoi@gmail.com<br><br>💬 Study https://qakeoi.blogspot.com<br><br>⚡ Fun fact There is no happiness without struggle
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qakeoi&label=Profile%20views&color=0e75b6&style=flat" alt="qakeoi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qakeoi" alt="qakeoi" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qakeoi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@qakeoi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/qakeoi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@qakeoi) 
 
-<p align="left"> <a href="https://twitter.com/qakeoi" target="blank"><img src="https://img.shields.io/twitter/follow/qakeoi?logo=twitter&style=for-the-badge" alt="qakeoi" /></a> </p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=qakeoi&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qakeoi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qakeoi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **Alone**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qakeoi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **All**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- 👨‍💻 All of my projects are available at [https://qakeoi.blogspot.com/p/portofolio.html](https://qakeoi.blogspot.com/p/portofolio.html)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=qakeoi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-- 📝 I regularly write articles on [https://qakeoi.blogspot.com/](https://qakeoi.blogspot.com/)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- 📫 How to reach me **cs.qakeoi@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=qakeoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Study [https://qakeoi.blogspot.com](https://qakeoi.blogspot.com)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qakeoi) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/qakeoi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/qakeoi) 
 
-- ⚡ Fun fact **There is no happiness without struggle**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/qakeoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qakeoi" height="30" width="40" /></a>
-<a href="https://instagram.com/qakeoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qakeoi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qakeoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qakeoi" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qakeoi&show_icons=true&locale=en&layout=compact" alt="qakeoi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qakeoi&show_icons=true&locale=en" alt="qakeoi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qakeoi&" alt="qakeoi" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
